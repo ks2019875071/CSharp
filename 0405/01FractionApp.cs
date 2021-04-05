@@ -15,7 +15,8 @@ namespace 0405{
 			Console.WriteLine(numerator + "/" + denominator);
 		}
 	}
-	class Program {
+
+	class FractionApp {
 		static void Main(string[] args)
 		{
 			Fraction f = new Fraction(1, 2);

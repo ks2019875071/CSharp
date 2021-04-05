@@ -24,7 +24,7 @@ namespace 0405{
 		}
 	}
 
-	class Program
+	class ConstVsReadOnlyApp
 	{
 		static void Main(string[] args)
 		{
