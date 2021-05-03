@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace A107_IComparable
+namespace _0503
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace A110_Dictionary
+namespace _0503
 {
     class Program
     {
